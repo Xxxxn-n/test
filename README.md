@@ -256,5 +256,5 @@ More details on [Metrics](tools/pika_exporter/README.md).
 
 * [Slack Channel](https://join.slack.com/t/w1687838400-twm937235/shared_invite/zt-1y72dch5d-~9CuERHYUSmfeJZh32Z~qQ)
 
-QQ group: 294254078
+
 
